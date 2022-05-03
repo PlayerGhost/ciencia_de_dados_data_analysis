@@ -1,0 +1,14 @@
+blis
+cymem
+langcodes
+murmurhash
+pathy
+preshed
+pydantic
+spacy-legacy
+spacy-loggers
+srsly
+thinc
+typer
+wasabi
+numpy
